@@ -3,7 +3,7 @@
 
 
 ## Python <br>
->Introduction
+> 1.Introduction
 
 | Subdomain | Difficulty | Problem link | Solution |
 |:---------:|:----------:|:---------:|:--------:|
