@@ -54,12 +54,12 @@
 |Sets|Easy|[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)|[Symmetric Difference.py ](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/4.sets/30.Symmetric%20Difference.py)|
 |Sets|Easy|[Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)|[Set .add().py](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/4.sets/31.Set%20.add().py)|
 |Sets|Easy|[Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)|[Set .discard(), .remove() & .pop().py](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/4.sets/32.Set%20.discard()%2C%20.remove()%20%26%20.pop().py)|
-|Sets|Easy|[Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)|[py-set-union.py](python/py-set-union.py)|
-|Sets|Easy|[Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)|[py-set-intersection-operation.py](python/py-set-intersection-operation.py)|
-|Sets|Easy|[Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)|[py-set-difference-operation.py](python/py-set-difference-operation.py)|
-|Sets|Easy|[Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)|[py-set-symmetric-difference-operation.py](python/py-set-symmetric-difference-operation.py)|
-|Sets|Easy|[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)|[py-set-mutations.py](python/py-set-mutations.py)|
-|Sets|Easy|[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)|[py-the-captains-room.py](python/py-the-captains-room.py)|
-|Sets|Easy|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[py-check-subset.py](python/py-check-subset.py)|
-|Sets|Easy|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[py-check-strict-superset.py](python/py-check-strict-superset.py)|
+|Sets|Easy|[Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)|[Set .union() Operation.py](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/4.sets/33.Set%20.union()%20Operation.py)|
+|Sets|Easy|[Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)|[Set .intersection() Operation.py ](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/4.sets/34.Set%20.intersection()%20Operation.py)|
+|Sets|Easy|[Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)|[Set .difference() Operation.py ](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/4.sets/35.Set%20.difference()%20Operation.py)|
+|Sets|Easy|[Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)|[Set .symmetric_difference() Operation.py ](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/4.sets/36.Set%20.symmetric_difference()%20Operation.py)|
+|Sets|Easy|[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)|[Set Mutations.py](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/4.sets/37.Set%20Mutations.py)|
+|Sets|Easy|[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)|[The Captain's Room.py](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/4.sets/38.The%20Captain's%20Room.py)|
+|Sets|Easy|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[The Captain's Room.py ](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/4.sets/38.The%20Captain's%20Room.py)|
+|Sets|Easy|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[Check Strict Superset.py ](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/4.sets/40.Check%20Strict%20Superset.py)|
 
