@@ -45,7 +45,7 @@
 |Strings|Medium|[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)|[The Minion Game.py](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/3.string/26.The%20Minion%20Game.py)|
 |Strings|Medium|[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)|[Merge the Tools!.py ](https://github.com/Kushal997-das/Hackerrank/blob/master/Hackerrank_python/3.string/27.Merge%20the%20Tools!.py)|
 
-> 3.Sets <br>
+> 4.Sets <br>
 
 | Subdomain | Difficulty | Problem link | Solution |
 |:---------:|:----------:|:-----------: |:--------:|
