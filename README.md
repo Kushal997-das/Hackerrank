@@ -1,7 +1,21 @@
 # Hackerrank
-* [Python](#python)
 
+[![](https://img.shields.io/badge/Author-KushalDas-green.svg)](https://github.com/Kushal997-das) <br>
 
+[![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das)
+[![Profile](https://Visitors-badge.glitch.me/badge?page_id=kushal997-das/Hackerrank.profileviews-badge)](https://github.com/kushal997-das/Hackerrank)
+![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
+![](https://img.shields.io/badge/Status-WorkinProgrees-green.svg)
+[![](https://img.shields.io/github/license/Kushal997-das/Hackerrank.svg?style=plastic)](https://github.com/Kushal997-das/Hackerrank)
+[![](https://img.shields.io/github/languages/code-size/Kushal997-das/Hackerrank.svg?style=plastic)](https://github.com/Kushal997-das/Hackerrank)
+[![](https://img.shields.io/github/languages/top/Kushal997-das/Hackerrank.svg?style=plastic)](https://github.com/Kushal997-das/Hackerrank)
+[![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Hackerrank.svg)](https://github.com/Kushal997-das/Hackerrank/issues) [![GitHub forks](https://img.shields.io/github/forks/Kushal997-das/Hackerrank.svg)](https://github.com/Kushal997-das/Hackerrank/network) [![GitHub stars](https://img.shields.io/github/stars/Kushal997-das/Hackerrank.svg)](https://github.com/Kushal997-das/Hackerrank/stargazers)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/30ee6772bb264a689a2604f5cdb0437b)](https://www.codacy.com/app/secdev/scapy)
+
+</a>
+<br><br>
+
+# PYTHON :
 
 ## Python <br>
 > 1.Introduction
@@ -203,6 +217,29 @@
 |:---------:|:----------:|:-----------: |:--------:|
 |Debugging|Medium|[Words Score](https://www.hackerrank.com/challenges/words-score/problem)|[words-score.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/17.debugging/1.Words%20Score.py)|
 |Debugging|Medium|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)|[default-arguments.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/17.debugging/2.Default%20Arguments.py)|
+<br><br><br>
+
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" />][Github]
+<br />
+<hr />
+
+[youtube]: https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber
+[gmail]: mailto:daskushal980@gmail.com
+[linkedin]: https://www.linkedin.com/in/kushal-das-7337421a9/
+[github]: https://github.com/Kushal997-das/
+
+
+
+  
+If you have any Queries or Suggestions, feel free to reach out to me.
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 
 
