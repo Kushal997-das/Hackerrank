@@ -10,7 +10,7 @@
 [![](https://img.shields.io/github/languages/code-size/Kushal997-das/Hackerrank.svg?style=plastic)](https://github.com/Kushal997-das/Hackerrank)
 [![](https://img.shields.io/github/languages/top/Kushal997-das/Hackerrank.svg?style=plastic)](https://github.com/Kushal997-das/Hackerrank)
 [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Hackerrank.svg)](https://github.com/Kushal997-das/Hackerrank/issues) [![GitHub forks](https://img.shields.io/github/forks/Kushal997-das/Hackerrank.svg)](https://github.com/Kushal997-das/Hackerrank/network) [![GitHub stars](https://img.shields.io/github/stars/Kushal997-das/Hackerrank.svg)](https://github.com/Kushal997-das/Hackerrank/stargazers)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/30ee6772bb264a689a2604f5cdb0437b)](https://www.codacy.com/app/secdev/scapy)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/30ee6772bb264a689a2604f5cdb0437b)](https://www.codacy.com/app/Kushal997-das/Hackerrank)
 
 </a>
 <br><br>
