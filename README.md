@@ -3,13 +3,14 @@
 [![](https://img.shields.io/badge/Author-KushalDas-green.svg)](https://github.com/Kushal997-das) <br>
 
 [![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das)
-[![Profile](https://Visitors-badge.glitch.me/badge?page_id=kushal997-das/Hackerrank.profileviews-badge)](https://github.com/kushal997-das/Hackerrank)
+
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
 ![](https://img.shields.io/badge/Status-WorkinProgrees-green.svg)
 [![](https://img.shields.io/github/license/Kushal997-das/Hackerrank.svg?style=plastic)](https://github.com/Kushal997-das/Hackerrank)
 [![](https://img.shields.io/github/languages/code-size/Kushal997-das/Hackerrank.svg?style=plastic)](https://github.com/Kushal997-das/Hackerrank)
 [![](https://img.shields.io/github/languages/top/Kushal997-das/Hackerrank.svg?style=plastic)](https://github.com/Kushal997-das/Hackerrank)
 [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Hackerrank.svg)](https://github.com/Kushal997-das/Hackerrank/issues) [![GitHub forks](https://img.shields.io/github/forks/Kushal997-das/Hackerrank.svg)](https://github.com/Kushal997-das/Hackerrank/network) [![GitHub stars](https://img.shields.io/github/stars/Kushal997-das/Hackerrank.svg)](https://github.com/Kushal997-das/Hackerrank/stargazers)
+![GitHub contributors](https://img.shields.io/github/contributors/Kushal997-das/Hackerrank)
 
 
 </a>
